@@ -18,23 +18,6 @@ An end-to-end data analytics project that focuses on analyzing and visualizing r
 - Microsoft Excel – Data cleaning and preprocessing
 - Power BI – Dashboard creation and data visualization
 
-## 📁 Project Structure
-
-ola_ride_analytics_dashboard/
-│
-├── data/
-│ └── raw_data.csv
-│
-├── queries/
-│ └── ride_analysis_queries.sql
-│
-├── visuals/
-│ └── dashboard_screenshot.png
-│
-├── dashboard/
-│ └── Ola_Dashboard.pbix
-│
-└── README.md
 
 
 ## 📈 Sample KPIs Tracked
